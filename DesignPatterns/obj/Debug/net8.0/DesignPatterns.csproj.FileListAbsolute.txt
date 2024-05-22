@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
